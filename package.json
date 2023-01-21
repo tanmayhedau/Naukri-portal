@@ -1,0 +1,32 @@
+{
+  "name": "job-board",
+  "version": "1.0.0",
+  "description": "Assignment\r You are building a server-side application to manage a job board for software developers. The application should have the following features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayhedau/Job-board.git"
+  },
+  "keywords": [],
+  "author": "Tanmay Hedau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayhedau/Job-board/issues"
+  },
+  "homepage": "https://github.com/tanmayhedau/Job-board#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1295.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
