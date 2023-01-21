@@ -1,4 +1,4 @@
-# Job-board
+# Naukri.com
 
 Assignment
 You are building a server-side application to manage a job board for software developers. The application should have the following features:
@@ -37,4 +37,4 @@ Your submission will be evaluated based on the following criteria:
 6. Code quality and organization
 7. If you complete the bonus tasks, your submission will also be evaluated on the implementation of authentication, authorization, pagination, and search.
 
-For Submissions and Queries about the assignment, please send an email to - akash@xhipment.com and bharat@xhipment.com
+
